@@ -1,0 +1,20 @@
+# Core data analysis
+yfinance>=0.2.0
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Visualization
+matplotlib>=3.5.0
+plotly>=5.0.0
+seaborn>=0.11.0
+
+# Dashboard
+streamlit>=1.28.0
+
+# Optional: For database integration later
+# sqlite3 (built into Python)
+# sqlalchemy>=1.4.0
+
+# Development tools
+jupyter>=1.0.0
+pytest>=7.0.0
